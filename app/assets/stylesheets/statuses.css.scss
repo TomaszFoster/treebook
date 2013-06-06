@@ -3,18 +3,16 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 .status {
-	
 	border-bottom: solid 1px #CCC;
 	padding: 5px 0;
 }
 
-.status.hover {
-	background:#FAFAFA;
+.status p {
+	margin: 4px 0;
 }
 
-.status p {
-	
-	margin: 4px 0;
+.status.hover {
+	background: #FAFAFA;
 }
 
 .status .admin {
